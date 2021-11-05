@@ -1,0 +1,1 @@
+SELECT * FROM `payment` WHERE payment_date '2005-06' ORDER BY amount ASC;
